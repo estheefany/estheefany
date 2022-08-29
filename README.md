@@ -1,4 +1,4 @@
-### Olá! Eu sou a Esthefany! 👋
+### Olá! Eu sou a Esthefany, iniciante em programação 👋💻😸
 #
 <div align="center">
   <a href="https://github.com/estheefany">
