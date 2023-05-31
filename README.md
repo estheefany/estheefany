@@ -14,7 +14,6 @@
   ##
   ### Redes Sociais
   <a href="https://instagram.com/esthefanysiilva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Esther-pic" height="240" margin-right="20" style="border-radius:50px"  src="https://user-images.githubusercontent.com/104703548/187108380-9aef12f0-1c08-4208-9ac5-fe0c95b04f6e.png">
   
 ### Tecnologias que já tive contato como aluna do IFRN
 
