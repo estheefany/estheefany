@@ -1,4 +1,4 @@
-### Olá! Eu sou a Esthefany, iniciante em programação e front-end👋💻😸
+### Olá! Eu sou a Esthefany👋💻😸
 #
 
 ![](https://github-readme-stats.vercel.app/api?username=Estheefany&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
